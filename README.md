@@ -1,5 +1,8 @@
-# Discord for Franz
-This is the official Franz recipe for Discord
+# Element for Ferdi
+This is the unofficial Ferdi recipe for Element.
 
-### How to create your own Franz recipes:
-* [Read the documentation](https://github.com/meetfranz/plugins)
+### Release notes
+1.0.0: First version
+
+### How to create your own Ferdi recipes:
+* [Read the documentation](https://github.com/getferdi/recipes/blob/master/docs/integration.md)
